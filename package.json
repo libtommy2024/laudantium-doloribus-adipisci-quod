@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/laudantium-doloribus-adipisci-quod",
-  "version": "8.19.185",
+  "version": "8.19.186",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -124,5 +124,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/laudantium-doloribus-adipisci-quod/issues"
   },
-  "packageManager": "yarn@4.5.1"
+  "packageManager": "yarn@4.5.2"
 }
